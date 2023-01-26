@@ -2,6 +2,7 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/q9y2paprvgcgkttr?svg=true)](https://ci.appveyor.com/project/HelgaRoosh/ra-2-1-filter)
 
+https://helgaroosh.github.io/Ra_2_1_filter/
 ===
 
 Необходимо реализовать портфолио с фильтрами, аналогичное указанному на изображении.
